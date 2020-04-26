@@ -1,4 +1,4 @@
-# scm-api
+# sc-api
 
 ## Data to be exchanged
 - Track & trace
