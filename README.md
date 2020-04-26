@@ -17,7 +17,7 @@
   - Actual ...
 
 
--[] Spinler
--[] David
--[] Check chainio
+- [] Spinler
+- [] David
+- [] Check chainio
 
