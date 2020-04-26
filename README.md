@@ -1,5 +1,7 @@
 # sc-api
 
+Vision: "One-click company integration"
+
 ## Data to be exchanged
 - Track & trace
 - Status codes
@@ -14,13 +16,15 @@
 - Dates
   - Planned pickup
   - Planned arrival
-  - Actual ...
-
+  - Actual pickup/arrival
+- ...
 
 ## Features
-- The connectivity api developers love
+- Open source w/ core developers
+- Developer focus
+- Plugins ready
+- Language agnostic
 - Kickass documentation (Gatsby, Next)
-- Open source
-- Great community support
+- Strong community
 - Developer events
 - Both sides must have an incentive to build their own connection
