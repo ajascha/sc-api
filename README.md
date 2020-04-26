@@ -17,7 +17,10 @@
   - Actual ...
 
 
-- [] Spinler
-- [] David
-- [] Check chainio
-
+## Features
+- The connectivity api developers love
+- Kickass documentation (Gatsby, Next)
+- Open source
+- Great community support
+- Developer events
+- Both sides must have an incentive to build their own connection
