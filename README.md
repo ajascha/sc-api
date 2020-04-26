@@ -8,6 +8,8 @@ Vision: "One-click company integration"
   - Dispatched
   - Arrived
   - Picked up
+  - ...
+- Temperature / other events
 - Invoice information
 - Physical document IDs
 - Carrier name
