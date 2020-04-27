@@ -55,7 +55,5 @@ Vision: "One-click company integration to handle the complexity of transforming 
 - EDI
 - Flat file
 - XML
-- API (JSON, GraphQL)
-
-
-
+- JSON
+- GraphQL
