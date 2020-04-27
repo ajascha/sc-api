@@ -81,12 +81,15 @@ You can "star" this project on GitHub (clicking the star button at the top right
 This helps other users find it more easily and see that it has been already useful for others.
 
 ### Join our Slack channel
+To come
 
 ## Support
 
 ### Documentation
-
+To come
 
 ### Slack/Disqus channel
+To come
 
-
+## License
+To come
