@@ -86,20 +86,23 @@ To come
 Help others with issues in GitHub
 You can see [existing issues] and try and help others.
 
-## Create issues
+### Create issues
 You can create a new issue in the GitHub repository, for example to:
 
 - Report a bug/issue.
 - Suggest a new feature.
 - Ask a question.
 
-## Create a Pull Request
+### Create a Pull Request
 You can create a Pull Request, for example:
 
 - To fix a typo you found on the documentation.
 - To propose new documentation sections.
 - To fix an existing issue/bug.
 - To add a new feature.
+
+### Write, tweet or tell others about this project
+Let others know why you like it.
 
 ## Support
 
