@@ -1,6 +1,13 @@
 # sc-api
 
+## About
+Businesses around the world are struggling to exchange information in an effective way. Different file formats, naming conventions and processes require trading partners to set up customized integrations to transmit and transform similar information.
+
 Vision: "One-click company integration to handle the complexity of transforming your messages to your trading partners’ preferred formats."
+
+This open source project is meant to transform information into one standardized format, which allows all connected trading partners to keep 
+
+
 
 ## Data to be exchanged
 - Track & trace
@@ -57,3 +64,30 @@ Vision: "One-click company integration to handle the complexity of transforming 
 - XML
 - JSON
 - GraphQL
+
+
+
+# Readme standards
+
+## Getting started
+To come
+
+## How to contribute
+There are several ways how you can promote this project:
+
+### Star on Github
+You can "star" this project on GitHub (clicking the star button at the top right): [link].
+
+This helps other users find it more easily and see that it has been already useful for others.
+
+### Join our Slack channel
+
+## Support
+Where can I get help?
+
+### Documentation
+
+
+### Slack/Disqus channel
+
+
