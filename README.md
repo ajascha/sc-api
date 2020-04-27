@@ -83,7 +83,6 @@ This helps other users find it more easily and see that it has been already usef
 ### Join our Slack channel
 
 ## Support
-Where can I get help?
 
 ### Documentation
 
