@@ -38,19 +38,6 @@ This open source project is meant to transform information into one standardized
 - Inventory data
 - ...
 
-
-## Features
-- Open source w/ core developers
-- Developer focus
-- Pre-built interfaces
-- Plugins marketplace
-- Programming language agnostic
-- Kickass documentation (Gatsby, Next)
-- Strong community
-- Developer events
-- Both sides must have an incentive to build their own connection
-- Blockchain-ready
-
 ## Systems to be connected
 - ERP
 - TMS
@@ -64,7 +51,6 @@ This open source project is meant to transform information into one standardized
 - XML
 - JSON
 - GraphQL
-
 
 
 # Readme standards
